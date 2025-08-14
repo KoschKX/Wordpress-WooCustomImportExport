@@ -22,6 +22,11 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  */
 
+/**
+ * This code uses WooCommerce, which is licensed under the GNU General Public License v3.
+ * https://woocommerce.com/
+ */
+
 
 define( 'WOOIMPORTEXPORT_DIR', __dir__ );
 define( 'WOOIMPORTEXPORT_URI', plugin_dir_url( __FILE__ ));
